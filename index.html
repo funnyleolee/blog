@@ -2,12 +2,30 @@
 layout: memoir
 title: Alex's blog
 ---
-<div>
+{% for post in site.posts %}
+<div class="post post type-post status-publish format-standard sticky hentry category-stories">
+	<div class="post_inner">
+		<div class="the_post">
+			<div class="additional-meta-wrap">
+				<div class="additional-meta">
+					<div class="meta-date">
+						<a href="#" title="This is a time">{{ post.date | date_to_string }}</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% endfor %}
+
+
+<!--div>
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</div>
+</div-->
 <!-- http://themes.designcrumbs.com/demo/?theme=Memoir-WP -->
 <!-- http://demo.mythemeshop.com/s/?theme=Diary -->
