@@ -30,11 +30,17 @@ a {
 	margin: 0 auto;
 	idth: 100%;
 }
+.clear {
+	clear: both;
+}
 #header {
 	height: auto;
 	margin: 0 auto;
 	text-align: center;
 	padding: 80px 0 0;
+}
+#content {
+overflow: hidden;
 }
 .container {
 	width: 700px;
@@ -45,6 +51,61 @@ a {
 	font-family: "Text Me One";
 }
 #slogan {
-color: #A0A0A0;
-margin: 10px 0 0;
+	color: #A0A0A0;
+	margin: 10px 0 0;
+}
+.stripes .post, .stripes.search .page {
+	padding: 60px 9999px;
+	margin: 0 -9999px;
+}
+.post_inner {
+	padding: 50px 0;
+	position: relative;
+	z-index: 3;
+}
+.additional-meta-wrap {
+	height: 20px;
+}
+.additional-meta, .page-title, .navigation-index {
+	border-color: #404040;
+}
+.additional-meta {
+	font-family: 'Merriweather',Georgia,serif;
+	font-size: 12px;
+	border-bottom: 1px dotted #AEAEAE;
+	line-height: 20px;
+	height: 9px;
+	position: relative;
+	font-weight: 300;
+}
+.additional-meta:after {
+	font-family: 'FontAwesome';
+	position: absolute;
+	right: -1px;
+	top: -2px;
+	font-size: 15px;
+	line-height: 22px;
+	padding-left: 5px;
+	background-color: #F5F5F5;
+}
+.sticky .additional-meta .meta-date {
+	padding-left: 25px;
+	position: relative;
+}
+.sticky .additional-meta .meta-date:before {
+	font-family: 'FontAwesome';
+	position: absolute;
+	left: 0;
+	top: -2px;
+	content: "\f005";
+}
+#the_logo h1 a, .byline a, .entry-title a, .meta-date a, .meta-comments a, .page-title a {
+	color: #3A3A3A;
+	text-decoration: none;
+	border-bottom: 1px dashed #F5F5F5;
+	-webkit-transition: border-color .2s linear;
+	-moz-transition: border-color .2s linear;
+	-ms-transition: border-color .2s linear;
+	-o-transition: border-color .2s linear;
+	transition: border-color .2s linear;
 }
