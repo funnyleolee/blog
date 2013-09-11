@@ -8,6 +8,19 @@ body{
 	font-weight: 400;
 	line-height: 28px;
 	color: #3A3A3A;
+	background-color: #F5F5F5;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+h6 {
+	padding: 0;
+	text-align: center;
+	margin-bottom: 15px;
+	font-size: 14px;
+	line-height: 21px;
+	font-family: 'Merriweather',Georgia,serif;
+	font-weight: 300;
 }
 a {
 	text-decoration: none;
@@ -30,4 +43,8 @@ a {
 .logo-link{
 	display: block;
 	font-family: "Text Me One";
+}
+#slogan {
+color: #A0A0A0;
+margin: 10px 0 0;
 }
