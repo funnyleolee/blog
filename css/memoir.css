@@ -68,7 +68,7 @@ overflow: hidden;
 	margin: 10px 0 0;
 }
 .stripes .post, .stripes.search .page {
-	padding: 60px 9999px;
+	padding: 20px 9999px;
 	margin: 0 -9999px;
 }
 .post_inner {
@@ -129,8 +129,8 @@ float: left;
 	transition: border-color .2s linear;
 }
 .entry-title {
-	margin-top: 60px;
-	margin-bottom: 60px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 	text-align: center;
 }
 #the_logo h1 a, .byline a, .entry-title a, .meta-date a, .meta-comments a, .page-title a {
