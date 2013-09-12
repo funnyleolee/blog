@@ -143,3 +143,8 @@ float: left;
 	-o-transition: border-color .2s linear;
 	transition: border-color .2s linear;
 }
+.post pre {
+	border: 1px solid #ddd;
+	background-color: #eef;
+	padding: 0 .4em;
+}
