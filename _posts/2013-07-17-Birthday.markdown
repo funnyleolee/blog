@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Birthday"
 date:   2013-07-17 10:53:37
 categories: blogger
 ---
