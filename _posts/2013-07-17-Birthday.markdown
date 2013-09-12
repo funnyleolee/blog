@@ -2,23 +2,25 @@
 layout: post
 title:  "Birthday"
 date:   2013-07-17 10:53:37
-categories: blogger
+categories: Birthday
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Looks to me like my first real post on a blog. Lets do this!
 
-Jekyll also offers powerful support for code snippets:
+A little less than a quarter of a century ago, I made an entry to crave out a few years in this world too. In transition between two worlds, quick hop you could say, walking seamlessly to catch a flight, perhaps.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Life isn’t such a fairy tale, turns out I am here to stay for more, at least to my senses, I am no less grateful, making years rolling by without doing much? Nah, I think it did, every single year has been a stroll through things, conventional mostly, let me save this for some other day.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+Why do we celebrate a birthday? Because you have turned an year older and wiser or because you are happy you have given your services to this world for an year more. Well I have never really got hold of these, I am not against it, but I don’t really think I get the essence of celebrating it. Making yourself feel special? Desperately, Forcefully? Hmm…
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+‘So it starts’ is the usual feeling when you have a new notification at 12:00 am, did I go the wrong way… some chocolate flavored something smashed right on your face while others kick you to the ground, admist all your phone rings and you cannot pick up because you are getting kicked? Going for a small drive at 100 with you occupying the moon top replacing the females as this is your day? Well… ok. After a brief period of time if you get back online turns out you have an avalanche of wishes by rest of the group (comprising of 896 friends). The normal day usually starts with endless phone calls often waking you up, pretty pumped about the day, liking it at first getting all the wishes for almost nothing you have done, survived another year? 3 billion people do this time and again every year :), By noon, it gets a bit boring and see the count go up and hoping some people do wish and if they don’t, feel bad about completely nothing to be really feel bad about. Get away to some place in the evening to get wasted after attending so many calls/becomes a nice way to the real thing. Did I miss the part about new clothes and stuff like that … imagine i put it in here :)
+
+Seems to me like a tiring and a hectic day which could have been smoother.
+
+Last year, the year before that and the year before that I went through the phase somewhat like what I have described, kept me busy through out the day, scraping for time, but yes the only part I enjoyed was the in house beer catch up with the lads last year.
+
+Around 6 months back I decided to quit facebook, just for the feel of it, it was hard at first, but I managed to stay away from it. One of the best decisions I ever made? Yes. Having loads of time on hand is a prized possession. People who ask and I say ‘simply’ often have a puzzled expression but that is ok!
+
+So yeah, this year my ‘birthday’ was a lot less hectic and quieter than the few prev years :). Apart from parents and relatives, a minute amount of people did wish, single digits! ‘People don’t remember your b’de, are you such a jerk?’ hit me at first, slowly subsiding to a feeling of the people who did were a close set of expectations. Didn’t get bogged down by numerous phone calls through out the day. Neither was I getting wished by random people over my friend list(which friend list?), nor do I have to go through and check, nor do I have to write ‘Thank you for all your wishes’. Saves time and energy and anxiety. Damn, she din’t wish me kind of thoughts din’t really arise because you ain’t wishing but enjoying time by yourself. I had a really boring birthday by all means if you consider what you wanted to go through! I went out to the a religious holding, visited some random places, walked around the streets, checked out stores, played a bit, listened to music, did some damn debugging too :) did things that I would do on a weekend with added advantage of talking to your family/favorite friends.
+
+Much smoother.
