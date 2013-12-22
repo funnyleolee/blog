@@ -11,10 +11,7 @@
 		<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Source+Sans+Pro'>
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="css/memoir.css">
-
-        <!-- Custom CSS -->
-        <!-- link rel="stylesheet" href="/css/main.css" -->
-
+		<link rel="stylesheet" href="css/syntax.css">
     </head>
     <body class="home blog stripes scheme_light">
 		<div class="wrapper" id="header">
@@ -53,10 +50,58 @@
 			<div class="additional-meta-wrap">
 				<div class="additional-meta">
 					<div class="meta-date">
+						<a href="#" title="This is a time">23 Dec 2013</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			 <h2 class="entry-title">
+         		<a href="/design/2013/12/23/sass-guide.html" title="sass 入门">sass 入门</a>
+			</h2>
+			<div class="entry-content">
+				<p>sass 是一种基于css语法并在此基础上拓展得技术，最终回生成css文件</p>
+
+<div class="highlight"><pre><code class="ruby"><span class="vi">@mixin</span> <span class="n">rundedradius</span><span class="p">(</span><span class="vg">$radius</span><span class="p">){</span>
+  <span class="n">border</span><span class="o">-</span><span class="ss">radius</span><span class="p">:</span> <span class="vg">$radius</span><span class="p">;</span>
+  <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">border</span><span class="o">-</span><span class="ss">radius</span><span class="p">:</span> <span class="vg">$radius</span><span class="p">;</span>
+  <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">border</span><span class="o">-</span><span class="ss">radius</span><span class="p">:</span> <span class="vg">$radius</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">#box{</span>
+  <span class="vi">@import</span> <span class="n">rundedradius</span><span class="p">(</span><span class="mi">10</span><span class="n">px</span><span class="p">);</span>
+  <span class="ss">width</span><span class="p">:</span> <span class="mi">320</span><span class="n">px</span><span class="p">;</span>
+  <span class="ss">height</span><span class="p">:</span> <span class="mi">240</span><span class="n">px</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+			</div>
+			<div class="share-bar">
+				<a href="/design/2013/12/23/sass-guide.html#disqus_thread">xx</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="post post type-post status-publish format-standard sticky hentry category-stories">
+	<div class="post_inner">
+		<div class="the_post">
+			<div class="additional-meta-wrap">
+				<div class="additional-meta">
+					<div class="meta-date">
 						<a href="#" title="This is a time">11 Sep 2013</a>
 					</div>
 					<div class="clear"></div>
 				</div>
+			</div>
+			 <h2 class="entry-title">
+         		<a href="/jekyll/update/2013/09/11/welcome-to-jekyll.html" title="Welcome to Jekyll!">Welcome to Jekyll!</a>
+			</h2>
+			<div class="entry-content">
+				<p>You&#39;ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
+To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+
+			</div>
+			<div class="share-bar">
+				<a href="/jekyll/update/2013/09/11/welcome-to-jekyll.html#disqus_thread">xx</a>
 			</div>
 		</div>
 	</div>
@@ -73,6 +118,20 @@
 					<div class="clear"></div>
 				</div>
 			</div>
+			 <h2 class="entry-title">
+         		<a href="/birthday/2013/07/17/Birthday.html" title="Birthday">Birthday</a>
+			</h2>
+			<div class="entry-content">
+				<p>Looks to me like my first real post on a blog. Lets do this!</p>
+
+<p>A little less than a quarter of a century ago, I made an entry to crave out a few years in this world too. In transition between two worlds, quick hop you could say, walking seamlessly to catch a flight, perhaps.</p>
+
+<p>Much smoother.</p>
+
+			</div>
+			<div class="share-bar">
+				<a href="/birthday/2013/07/17/Birthday.html#disqus_thread">xx</a>
+			</div>
 		</div>
 	</div>
 </div>
@@ -83,9 +142,11 @@
   <h1>Blog Posts</h1>
   <ul class="posts">
     
+     <li><span>23 Dec 2013</span> &raquo; <a href="/design/2013/12/23/sass-guide.html">sass 入门</a></li>
+    
      <li><span>11 Sep 2013</span> &raquo; <a href="/jekyll/update/2013/09/11/welcome-to-jekyll.html">Welcome to Jekyll!</a></li>
     
-     <li><span>17 Jul 2013</span> &raquo; <a href="/blogger/2013/07/17/Birthday.html">Welcome to Jekyll!</a></li>
+     <li><span>17 Jul 2013</span> &raquo; <a href="/birthday/2013/07/17/Birthday.html">Birthday</a></li>
     
 </div-->
 <!-- http://themes.designcrumbs.com/demo/?theme=Memoir-WP -->

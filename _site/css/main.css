@@ -158,3 +158,9 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+.comment{
+	margin: 30px 0 40px;
+	padding-top: 15px;
+	border-top: #E3E3E3 solid 2px;
+}
