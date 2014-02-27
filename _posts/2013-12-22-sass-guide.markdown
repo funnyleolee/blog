@@ -5,7 +5,7 @@ date:   2013-12-22 21:05:00
 categories: design
 ---
 sass 是一种基于css语法并在此基础上拓展得技术，最终回生成css文件
-{% highlight css %}
+```css
 @mixin rundedradius($radius){
   border-radius: $radius;
   -moz-border-radius: $radius;
@@ -16,4 +16,4 @@ sass 是一种基于css语法并在此基础上拓展得技术，最终回生成
   width: 320px;
   height: 240px;
 }
-{% endhighlight %}
+```
