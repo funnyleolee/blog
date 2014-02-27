@@ -7,7 +7,7 @@ categories: Java
 
 hahahah
 
-{% highlight language %}
+{% highlight java %}
 public class IoOperation {
 	public static void main(String[] args) {
 		System.out.println("====");
