@@ -5,10 +5,12 @@ date:   2014-02-27 13:28:00
 categories: Java
 ---
 
-```language
+hahahah
+
+{% highlight language %}
 public class IoOperation {
 	public static void main(String[] args) {
 		System.out.println("====");
 	}	
 }
-```
+{% endhighlight %}
