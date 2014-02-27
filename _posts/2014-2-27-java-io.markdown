@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "JAVA IO详解"
+date:   2013-07-17 10:53:37
+categories: Java
+---
+
+###输入流
+
+	public class IoOperation {
+		public static void main(String[] args) {
+			System.out.println("====");
+		}	
+	}
